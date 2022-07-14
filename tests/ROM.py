@@ -1,6 +1,6 @@
 import math
 from nmigen import Elaboratable, Module, Memory
-from nmigen_soc.wishbone import Interface
+from amaranth_soc.wishbone import Interface
 from nmigen.back import verilog
 
 

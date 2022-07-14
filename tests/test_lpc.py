@@ -1,7 +1,7 @@
 import unittest
 
 from nmigen import Elaboratable, Module, Signal
-from nmigen_soc.wishbone import Interface as WishboneInterface
+from amaranth_soc.wishbone import Interface as WishboneInterface
 from nmigen.sim import Simulator
 
 from lpcperipheral.lpcperipheral import LPCPeripheral
