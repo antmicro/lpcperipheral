@@ -1,0 +1,2 @@
+amaranth
+git+https://github.com/amaranth-lang/amaranth-soc.git
